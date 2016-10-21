@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: caa9c963e1b8e429fa61336e769d69c0
+timeCreated: 1475128089
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: back_leaf_L
+    21300002: back_leaf_C
+    21300004: back_leaf_R
+    21300006: front_leaf_L
+    21300008: front_leaf_C
+    21300010: front_leaf_R
+    21300012: body
+    21300014: Arm_L
+    21300016: Arm_R
+    21300018: Face_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: back_leaf_L
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 829
+        width: 411
+        height: 186
+      alignment: 9
+      pivot: {x: 0.9646891, y: 0.09549836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: back_leaf_C
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 897
+        width: 201
+        height: 205
+      alignment: 9
+      pivot: {x: 0.4472122, y: 0.048293695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: back_leaf_R
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 777
+        width: 401
+        height: 235
+      alignment: 9
+      pivot: {x: 0.018911766, y: 0.077226095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: front_leaf_L
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 503
+        width: 338
+        height: 191
+      alignment: 9
+      pivot: {x: 0.9508991, y: 0.742408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: front_leaf_C
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 487
+        width: 256
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5, y: 0.709692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: front_leaf_R
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 468
+        width: 393
+        height: 225
+      alignment: 9
+      pivot: {x: 0.018936275, y: 0.6500464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: body
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 22
+        width: 682
+        height: 388
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.26382676}
+      border: {x: 0, y: 0, z: 0, w: 4}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arm_L
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 347
+        width: 160
+        height: 103
+      alignment: 9
+      pivot: {x: 0.9220047, y: 0.54682434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arm_R
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 249
+        width: 152
+        height: 118
+      alignment: 9
+      pivot: {x: 0.13193552, y: 0.54087263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Face_1
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 32
+        width: 274
+        height: 209
+      alignment: 9
+      pivot: {x: 0.49647978, y: 0.5969197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
